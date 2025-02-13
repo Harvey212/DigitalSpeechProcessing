@@ -1,4 +1,4 @@
 # DigitalSpeechProcessing
 
-## Baum-Welch training
+## Baum-Welch
 
