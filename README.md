@@ -2,6 +2,7 @@
 
 ## Project 1: Baum-Welch Algorithm
 
+Problem Description:
 ![My animated logo](./Project1/p1.png)
 
 ![My animated logo](./Project1/p2.png)
