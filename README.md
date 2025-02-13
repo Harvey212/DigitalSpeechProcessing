@@ -1,4 +1,4 @@
 # DigitalSpeechProcessing
 
-## Baum-Welch
+## Project 1: Baum-Welch Algorithm
 
